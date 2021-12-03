@@ -1,0 +1,23 @@
+h1 {
+    font-family: cursive;
+    background-color: black;
+    color: white;
+}
+
+span#cloud {
+    color: turquoise;
+}
+
+h2 {
+    font-family: cursive;
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+h3 {
+    font-family: cursive;
+    background-color: turquoise;
+    text-align: right;
+}
